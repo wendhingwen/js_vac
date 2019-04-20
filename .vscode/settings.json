@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/e99aa14d-d652-4697-8234-9f2b72276704/resourceGroups/ching-vasjs/providers/Microsoft.Web/sites/ching-vasjs",
+    "appService.deploySubpath": ""
+}
